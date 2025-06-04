@@ -30,7 +30,12 @@ Once you are familiar with these concepts you can start drilling down into patte
 
  - Using difficulty tags, `Difficulty-Beginner`, `Difficulty-Intermediate` & `Difficulty-Expert`.
  - Using pattern categories, `Creational`, `Behavioral` and others.
- - Search for a specific pattern. Can't find one? Please report a new pattern [here](https://github.com/iluwatar/java-design-patterns/issues).
+- Search for a specific pattern. Can't find one? Please report a new pattern [here](https://github.com/iluwatar/java-design-patterns/issues).
+
+# Documentation
+
+For an overview of the repository structure and build instructions see
+[docs/project-documentation.md](docs/project-documentation.md).
 
 # How to contribute
 
